@@ -1,6 +1,6 @@
 <h1 align="center">Nesar Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<p>🏅𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒊𝒕𝒉 100% 𝒋𝒐𝒃 𝒔𝒖𝒄𝒄𝒆𝒔𝒔 𝒓𝒆𝒄𝒐𝒓𝒅.</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesarahmedrazon&show_icons=true&locale=en&layout=compact" alt="nesarahmedrazon" /></p>
 
