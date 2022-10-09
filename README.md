@@ -16,7 +16,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesarahmedrazon&label=Profile%20views&color=0e75b6&style=flat" alt="nesarahmedrazon" /> </p>
 
 
+<p align="left">🏅𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒊𝒕𝒉 100% 𝒋𝒐𝒃 𝒔𝒖𝒄𝒄𝒆𝒔𝒔 𝒓𝒆𝒄𝒐𝒓𝒅.
 
+💪 Specialize in Elementor plugin with many years of Professional Experience.  If you need a custom widget for Elementor or Elementor Pro I'm at your service. Recently I've moved to Headless WordPress with React for more flexibility and speed.
+please check darlenas.vercel.app for the difference.
+
+You will receive by working with me:
+🏷️ A finished WordPress React site that meets all the modern requirements of the Internet community.
+🏷️ Quality code and work.
+🏷️ Confidentiality of Information.
+🏷️ Proper guidelines and support for the delivered project.
+🏷️ A guarantee that all work is performed at a high level.
+🏷️ Support or Recommendations on maintaining, protecting, and updating a website on WordPress.
+
+
+Let me introduce myself: 
+I am Nesar Ahmed, focused on giving more than I expect to get. This is the basis of my work as a freelancer. I can't convey the pride I feel when my clients are satisfied with their WordPress or  React projects. My skills and experiences range from building responsive WordPress eCommerce sites or Plugins that work perfectly cross-browser to building scalable websites for any industry. 
+
+I consider myself a person who follows modern web development practices and new technologies. A person who never stops learning, is trustworthy, responsible, respects deadlines, and knows that customer satisfaction is the key to success.
+
+PS... Make me a part of Your WordPress Team and chat me Up Now 🤙</p>
 
 
 
