@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p>🏅𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒊𝒕𝒉 100% 𝒋𝒐𝒃 𝒔𝒖𝒄𝒄𝒆𝒔𝒔 𝒓𝒆𝒄𝒐𝒓𝒅.</p>
 
-<p align="left">🏅𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒊𝒕𝒉 100% 𝒋𝒐𝒃 𝒔𝒖𝒄𝒄𝒆𝒔𝒔 𝒓𝒆𝒄𝒐𝒓𝒅.
-
-Hi, I'm Nesar Ahmed, a front-end developer with over 5 years of experience in HTML, CSS, JavaScript, and React. I am passionate about creating user-friendly and aesthetically pleasing websites. I keep my skills up-to-date by taking on new challenges and experimenting with new technologies. I am a team player with a strong focus on delivering projects on time and to a high standard. If you're looking for a dedicated front-end developer, let's work together!
+<p align="left">Hi, I'm Nesar Ahmed, a front-end developer with over 5 years of experience in HTML, CSS, JavaScript, and React. I am passionate about creating user-friendly and aesthetically pleasing websites. I keep my skills up-to-date by taking on new challenges and experimenting with new technologies. I am a team player with a strong focus on delivering projects on time and to a high standard. If you're looking for a dedicated front-end developer, let's work together!
 
 You will receive by working with me:
 🏷️ A finished WordPress React site that meets all the modern requirements of the Internet community.
