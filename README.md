@@ -5,12 +5,12 @@
 <p align="left">Hi, I'm Nesar Ahmed, a front-end developer with over 5 years of experience in HTML, CSS, JavaScript, and React. I am passionate about creating user-friendly and aesthetically pleasing websites. I keep my skills up-to-date by taking on new challenges and experimenting with new technologies. I am a team player with a strong focus on delivering projects on time and to a high standard. If you're looking for a dedicated front-end developer, let's work together!
 
 You will receive by working with me:
-🏷️ A finished WordPress React site that meets all the modern requirements of the Internet community.
-🏷️ Quality code and work.
-🏷️ Confidentiality of Information.
-🏷️ Proper guidelines and support for the delivered project.
-🏷️ A guarantee that all work is performed at a high level.
-🏷️ Support or Recommendations on maintaining, protecting, and updating a website on WordPress.
+> 🏷️ A finished WordPress React site that meets all the modern requirements of the Internet community.<br>
+> 🏷️ Quality code and work.<br>
+> 🏷️ Confidentiality of Information.<br>
+> 🏷️ Proper guidelines and support for the delivered project.<br>
+> 🏷️ A guarantee that all work is performed at a high level.<br>
+> 🏷️ Support or Recommendations on maintaining, protecting, and updating a website on WordPress.<br>
 
 
 Let me introduce myself: 
