@@ -18,8 +18,7 @@
 
 <p align="left">🏅𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒊𝒕𝒉 100% 𝒋𝒐𝒃 𝒔𝒖𝒄𝒄𝒆𝒔𝒔 𝒓𝒆𝒄𝒐𝒓𝒅.
 
-💪 Specialize in Elementor plugin with many years of Professional Experience.  If you need a custom widget for Elementor or Elementor Pro I'm at your service. Recently I've moved to Headless WordPress with React for more flexibility and speed.
-please check darlenas.vercel.app for the difference.
+Hi, I'm Nesar Ahmed, a front-end developer with over 5 years of experience in HTML, CSS, JavaScript, and React. I am passionate about creating user-friendly and aesthetically pleasing websites. I keep my skills up-to-date by taking on new challenges and experimenting with new technologies. I am a team player with a strong focus on delivering projects on time and to a high standard. If you're looking for a dedicated front-end developer, let's work together!
 
 You will receive by working with me:
 🏷️ A finished WordPress React site that meets all the modern requirements of the Internet community.
